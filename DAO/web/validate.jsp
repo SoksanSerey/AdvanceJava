@@ -12,7 +12,8 @@
 </head>
 <body>
     <%
-        String ch=request.getParameter("choice");
+        String ch;
+        ch = request.getParameter("choice");
         if(ch.equals("insert"))
         {
             RequestDispatcher rd=request.getRequestDispatcher("Insert.jsp");

@@ -28,7 +28,7 @@ public class OPServlet extends HttpServlet {
             id=request.getParameter("id"); //read all the parameter from jsp
             //name
             //age
-            StudentModel sm=new StidentModel;
+            StudentModel sm=new StidentModel();
             sm.setId(id);
 
             StudentDAO sd=new StudentDAOImp();
