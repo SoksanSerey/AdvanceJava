@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="MySQL Connector.C 6">
+    <CLASSES>
+      <root url="file://C:/Program Files/MySQL/MySQL Connector.C 6.1" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://C:/Program Files/MySQL/MySQL Connector.C 6.1" recursive="false" />
+  </library>
+</component>
